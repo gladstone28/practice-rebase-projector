@@ -25,6 +25,7 @@ Brightness: 1,500 lumens (might require a controlled light environment or slight
 Resolution: True 4K
 Contrast Ratio: Infinity:1 (dynamic contrast)
 Features: Advanced Reality Creation, Motionflow technology, and HDR compatibility.
+
 For daytime use, a projector with at least 2,500 lumens is recommended to combat ambient light effectively. Additionally, consider using blackout curtains or shades to enhance the viewing experience if complete control of ambient light isn't possible.
 
 
